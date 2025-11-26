@@ -131,9 +131,9 @@ Resultados esperados para cada arquitectura (valores de ejemplo, sustituir por l
 
 | Arquitectura          | Precisión (Validación) | Tamaño del Modelo (MB) | FPS Estimado (Raspberry Pi 5) |
 |-----------------------|------------------------|------------------------|--------------------------------|
-| CNN Personalizada     | XX.XX %               | X.X MB                 | ≥ 25 FPS                       |
-| ResNet50 (Fine-Tuned) | XX.XX %               | XXX.X MB               | ≈ 5 FPS                        |
-| MobileNetV2           | XX.XX %               | X.X MB                 | ≥ 20 FPS                       |
+| CNN Personalizada     | 90.2 %                 | 9 MB                   | ≥ 30 FPS                       |
+| ResNet50 (Fine-Tuned) | 77.64 %                | 100 MB                 |   ≈ 5 FPS                        |
+| MobileNetV2           | 78 %                   | 40 MB                  | ≥ 20 FPS                       |
 
 **Nota:** Sustituir `XX.XX %` y `X.X MB` por los valores reales obtenidos tras el entrenamiento y la evaluación.
 
