@@ -203,4 +203,3 @@ Algunas posibles extensiones del proyecto:
 
 ---
 
-¿Te gustaría que te ayude a redactar una sección específica de este README con más detalle, por ejemplo, el proceso exacto de fine-tuning de ResNet50 o la parte de despliegue en Raspberry Pi 5?
